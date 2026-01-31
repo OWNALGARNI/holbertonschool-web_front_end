@@ -1,4 +1,4 @@
-/* Task 13: Style anchor elements with pseudo-classes */
+/* Task 12: Style section title */
 
 :root {
   --color-primary: #d73953;
@@ -37,21 +37,9 @@ body {
   line-height: var(--line-height-base);
 }
 
-a[href] {
+a {
   color: var(--text-color);
   text-decoration: none;
-}
-
-a[href]:visited {
-  font-style: italic;
-}
-
-a[href]:hover {
-  text-decoration: underline;
-}
-
-a[href]:active {
-  background-color: var(--color-light-grey);
 }
 
 .section-header {
@@ -85,4 +73,23 @@ h5,
 h6 {
   font-family: var(--font-family-title);
   font-weight: var(--font-weight-bold);
+}
+
+/* Task 13: Pseudo Classes */
+
+a[href] {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+a[href]:visited {
+  font-style: italic;
+}
+
+a[href]:hover {
+  text-decoration: underline;
+}
+
+a[href]:active {
+  background-color: var(--color-light-grey);
 }
