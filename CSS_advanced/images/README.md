@@ -70,15 +70,23 @@ According to the project description, you also need:
 
 ## Checklist / قائمة التحقق
 
-- [ ] pic-about-01.jpg
-- [ ] pic-work-01.jpg
-- [ ] pic-work-02.jpg
-- [ ] pic-work-03.jpg
-- [ ] pic-article-01.jpg
-- [ ] pic-article-02.jpg
-- [ ] pic-article-03.jpg
-- [ ] pic-person-01.jpg
-- [ ] pic-person-02.jpg
-- [ ] pic-person-03.jpg
+- [x] pic-about-01.jpg ✅
+- [x] pic-work-01.jpg ✅
+- [x] pic-work-02.jpg ✅
+- [x] pic-work-03.jpg ✅
+- [x] pic-article-01.jpg ✅
+- [x] pic-article-02.jpg ✅
+- [x] pic-article-03.jpg ✅
+- [x] pic-person-01.jpg ✅
+- [x] pic-person-02.jpg ✅
+- [x] pic-person-03.jpg ✅
 - [ ] logos (2 files)
 - [ ] favicon (1 file)
+
+---
+
+## Status / الحالة
+
+**✅ تم إكمال جميع الصور المطلوبة!**
+
+All 10 required images have been successfully downloaded and saved in the correct format.
